@@ -7,7 +7,7 @@
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <link rel="stylesheet" href="/css/dashboard.css">
   <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script src="{{ asset('js/modernizr.js') }}"></script>
+  <script src="{{ ('js/modernizr.js') }}"></script>
   <script src="{{ asset('js/plugin.js') }}"></script>
   <script src="{{ asset('js/script.js') }}"></script>
   <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
