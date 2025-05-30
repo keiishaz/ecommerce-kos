@@ -65,7 +65,7 @@
 
         <!-- Gambar Section: Kanan -->
         <div class="right-section">
-            <img src="/images/shopp-3.png" alt="Illustration">
+            <img src="/images/uploadedfile/shopp-3.png" alt="Illustration">
         </div>
     </div>
     <script src="/js/login.js'"></script>
