@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Admin Dashboard</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="{{ asset('css/dashboard.css') }}">
+  <link rel="stylesheet" href="/css/dashboard.css">
   <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
   <script src="{{ asset('js/modernizr.js') }}"></script>
   <script src="{{ asset('js/plugin.js') }}"></script>
